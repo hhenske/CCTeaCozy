@@ -71,7 +71,9 @@ nav span a {
 #mission .content-wrapper {
   margin: auto 0;
   align-items: center;
-  background-color: #000;
+  background-color: black;
+  text-align: center;
+  padding: 20px;
 }
 
 #mission h2 {
